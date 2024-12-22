@@ -11,3 +11,5 @@
 ##### [Check Tableau visualization](https://public.tableau.com/app/profile/sujay.bahumik/viz/TheRollingSigmasandBetas/Dashboard1#2)
 
 <img src="screenshots/index1.JPG" alt="Description" width="800">
+<img src="screenshots/1y_rollin_beta.JPG" alt="Description" width="800">
+<img src="screenshots/1y_rollin_sigma.JPG" alt="Description" width="800">
