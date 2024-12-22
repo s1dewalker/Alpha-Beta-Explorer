@@ -10,6 +10,5 @@
 ##### In this we calculate the 1-year rolling beta w/ S&P500 as benchmark and 1-year rolling standard deviation for 10 major sectors of NYSE stocks
 ##### [Check Tableau visualization](https://public.tableau.com/app/profile/sujay.bahumik/viz/TheRollingSigmasandBetas/Dashboard1#2)
 
-<img src="screenshots/index1.JPG" alt="Description" width="800">
-<img src="screenshots/1y_rollin_beta.JPG" alt="Description" width="800">
-<img src="screenshots/1y_rollin_sigma.JPG" alt="Description" width="800">
+<img src="screenshots/rolling_metrics.JPG" alt="Description" width="800">
+
