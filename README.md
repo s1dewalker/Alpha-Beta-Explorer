@@ -11,3 +11,4 @@
 <img src="screenshots/rolling_metrics.JPG" alt="Description" width="800">
 
 #### [Check Tableau visualization](https://public.tableau.com/app/profile/sujay.bahumik/viz/TheRollingSigmasandBetas/Dashboard1#2)
+#### [Check out the rolling metrics in Python](https://github.com/s1dewalker/Alpha-Beta-Explorer/blob/main/py_files/The_Rolling_Sigmas.ipynb)
