@@ -2,7 +2,7 @@
 
 <img src="screenshots/ab.png" alt="Description" width="800">
 
-###### Analyzing market betas to assess asset sensitivity, systematic risk, and portfolio implications <br/>
+###### Analyzing market factors and metrics to assess asset sensitivity, systematic risk, and portfolio implications <br/>
 
 ## [Treasury Beta](https://github.com/s1dewalker/Alpha-Beta-Explorer/blob/main/py_files/Betas.ipynb)
 ##### In this we calculate Treasury Beta using multiple linear regression with 7-10 year treasury ETF and equity benchmark return 
