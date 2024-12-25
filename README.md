@@ -1,6 +1,7 @@
 # Alpha-Beta-Explorer
 
 <img src="screenshots/ab.png" alt="Description" width="800">
+
 ###### Analyzing market betas to assess asset sensitivity, systematic risk, and portfolio implications <br/>
 
 ## [Treasury Beta](https://github.com/s1dewalker/Alpha-Beta-Explorer/blob/main/py_files/Betas.ipynb)
