@@ -15,3 +15,9 @@
 
 #### [Tableau](https://public.tableau.com/app/profile/sujay.bahumik/viz/TheRollingSigmasandBetas/Dashboard1#2)
 #### [Python](https://github.com/s1dewalker/Alpha-Beta-Explorer/blob/main/py_files/The_Rolling_Sigmas.ipynb)
+
+<br/>
+
+*hope you find it helpful, and encourage you to forward any suggestions for improvements* <br/>
+##### [LinkedIn](https://www.linkedin.com/in/sujay-bhaumik-d12/) | s1dewalker23@gmail.com | [Research Works](https://github.com/s1dewalker/Research-Works)
+
