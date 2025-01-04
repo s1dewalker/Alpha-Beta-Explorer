@@ -1,4 +1,4 @@
-# Alpha-Beta-Explorer
+# Portfolio Risk Metrics Explorer
 
 <img src="screenshots/ab.png" alt="Description" width="800">
 
