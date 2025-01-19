@@ -2,7 +2,7 @@
 
 ###### Analyzing market factors and metrics to assess asset sensitivity, systematic risk, and portfolio implications <br/>
 
-## [Factor Analysis: Fama French 3-Factors](https://github.com/s1dewalker/Alpha-Beta-Explorer/blob/main/py_files/Multi_Factor_Analysis3.ipynb)
+## [Factor Analysis with Model validation: Fama French 3-Factor](https://github.com/s1dewalker/Alpha-Beta-Explorer/blob/main/py_files/Multi_Factor_Analysis3.ipynb)
 ##### In this we find the factors driving the portfolio with ols, ridge, lasso regression and check R square values.
 <br/>
 
